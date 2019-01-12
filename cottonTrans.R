@@ -1,6 +1,6 @@
 
 ## cotton.R
-## Author: Parampreet Sodhi, Mohammad Najaf-Panah, Jesse Sombrano
+## Author: Mohammad Najaf-Panah
 ## Created: May 3, 2017
 ## RNA-seq analysis with DESeq2 for three cotton genotypes in response 
 ## to salt over time.
