@@ -1,9 +1,10 @@
 
-## cotton.R
+## Purpose: To identify the differencially expresed genes in
+##          three cotton genotypes in response to salt 
+##          over time through RNA-seq data analysis by DESeq2 package.
 ## Author: Mohammad Najaf-Panah
 ## Created: May 3, 2017
-## RNA-seq analysis with DESeq2 for three cotton genotypes in response 
-## to salt over time.
+## Modified: Dec 11, 2019
 
 # Import & pre-process ----------------------------------------------------
 require("DESeq2")
